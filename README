@@ -1,3 +1,6 @@
+This python script is used to extract Flash files from binary files like:
+Excel, Word and other files.
+
 Simple usage:
 python extractswf.py -f file_to_be_analysed -d destionation_dir
 
